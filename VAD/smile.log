@@ -1,0 +1,62 @@
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in SMILExtract : config file is: Standalone.conf
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in cComponentManager : successfully registered 113 component types.
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in configManager : reading config file 'Standalone.conf'
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in configManager : reading config file 'WaveFileInput.conf'
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in configManager : reading config file 'IS13_ComParE_specbase.conf'
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in configManager : reading config file 'lstmVAD.conf'
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in instance 'mvn_VAD' : Loading init file in old MVN binary format
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in smileRnn : Net file format: 2
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in smileRnn : net-task: 1
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (14 component instances were finalised, 1 data memories were finalised)
+[ 22.06.2014 - 23:13:17 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 22.06.2014 - 23:13:17 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #1
+[ 22.06.2014 - 23:13:17 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #2
+[ 22.06.2014 - 23:13:18 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #4
+[ 22.06.2014 - 23:13:18 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #5
+[ 22.06.2014 - 23:13:18 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #9
+[ 22.06.2014 - 23:13:19 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #23
+[ 22.06.2014 - 23:13:20 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #25
+[ 22.06.2014 - 23:13:20 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #27
+[ 22.06.2014 - 23:13:20 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #29
+[ 22.06.2014 - 23:13:20 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #30
+[ 22.06.2014 - 23:13:20 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #33
+[ 22.06.2014 - 23:13:20 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #35
+[ 22.06.2014 - 23:13:21 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #36
+[ 22.06.2014 - 23:13:21 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #43
+[ 22.06.2014 - 23:13:22 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #45
+[ 22.06.2014 - 23:13:22 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #49
+[ 22.06.2014 - 23:13:22 ]
+    (ERROR) [1] in instance 'turnOutp' : no frames were written for turn #52
+[ 22.06.2014 - 23:13:22 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 25572 ticks.
+here in destr.
